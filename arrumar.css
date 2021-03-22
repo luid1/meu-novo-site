@@ -24,6 +24,9 @@ nav ul li a{
     font-weight:bold;
     font-size:14px;
 }
+::-webkit-scrollbar{
+        display: none;
+    }
 .links{
     list-style:none;
     display:flex;
